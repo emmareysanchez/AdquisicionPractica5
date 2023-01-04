@@ -1,0 +1,6 @@
+BeautifulSoup
+requests
+pandas
+fpdf
+seaborn
+matplotlib.pyplot
